@@ -503,9 +503,9 @@ Bicycle
 * (151111093) Arif fatur rahman saleh
 
 ### Topic & Description
-
+Jam dinding
 ### Github Repository
-
+https://github.com/ariffatur22/alip
 ## Group XXXIV
 
 ### Members
