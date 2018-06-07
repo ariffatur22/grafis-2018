@@ -508,7 +508,7 @@ Jam dinding
 
 ### Github Repository
 
-[https://github.com/ariffatur22/alip](https://github.com/ariffatur22/alip)
+https://github.com/ariffatur22/alip
 
 ## Group XXXIV
 
